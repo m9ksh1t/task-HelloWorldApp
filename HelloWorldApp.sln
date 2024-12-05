@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{294CB6EB-808C-4755-9F74-F924F3C55B1B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{0516E76B-C60C-469D-8A12-14858B8512B3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{FB625168-09DF-44D6-A60E-836E00B84F91}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{BDBA7043-7B6D-4588-8378-E739DBC82577}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{D8A8CA74-2AFF-4D18-BC8C-29DD07A4221B}"
 	ProjectSection(SolutionItems) = preProject
 		deploy-to-acr.yml = deploy-to-acr.yml
 	EndProjectSection
@@ -27,7 +27,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{BDBA7043-7B6D-4588-8378-E739DBC82577} = {0516E76B-C60C-469D-8A12-14858B8512B3}
+		{D8A8CA74-2AFF-4D18-BC8C-29DD07A4221B} = {FB625168-09DF-44D6-A60E-836E00B84F91}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE140B01-3441-4E0F-B5D4-D64885D4E174}
